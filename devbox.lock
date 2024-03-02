@@ -1,0 +1,45 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "go@latest": {
+      "last_modified": "2024-02-24T23:06:34Z",
+      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#go_1_22",
+      "source": "devbox-search",
+      "version": "1.22.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/sbg2nmns0b8invf6ws8yid0gdak18w4d-go-1.22.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/48bhxp3lncnmss2i3f44k3r7wgcm0ijk-go-1.22.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/3xay4cky9vhc2ir4prv53n5gbgal0nlj-go-1.22.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/8yw3g52r95h7cv09lcrran92n212997b-go-1.22.0"
+        }
+      }
+    },
+    "gopls@latest": {
+      "last_modified": "2024-02-29T18:14:35Z",
+      "resolved": "github:NixOS/nixpkgs/b5f6e3881acf8ca8a35b8cdb8d4021e5bd469a4e#gopls",
+      "source": "devbox-search",
+      "version": "0.15.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/5rm9fvahy3xgb4q42rhf6dsggp4r442b-gopls-0.15.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/8rryibahn2i86zb9846j954r3dasyz7c-gopls-0.15.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/gd5yy3xfjhz4lgf7vw01mzzjp5qb5355-gopls-0.15.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/sa9fczlr6rcip8inlb9z6l3hd2hy9gs2-gopls-0.15.1"
+        }
+      }
+    }
+  }
+}
